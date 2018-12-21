@@ -2,7 +2,8 @@
 
 Don't Steal Packages.
 
-Click the images below to watch the videos:
+Click the images below to watch either of the videos:
+
 [![Package Thief vs. Glitter Bomb Trap](https://img.youtube.com/vi/xoxhDk-hwuo/0.jpg)](https://youtu.be/xoxhDk-hwuo)
 
 
